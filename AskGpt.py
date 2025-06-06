@@ -25,7 +25,7 @@ USER_IGNORE_FILES = (
     # Common
     ".DS_Store, .gitignore, README.md, "
     # Specific user files
-    "analyzer_wide, tsconfig.tsbuildinfo"
+    "analyzer_wide, tsconfig.tsbuildinfo, chat_sender.py"
 )
 
 # Список папок для игнорирования (через запятую).
